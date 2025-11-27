@@ -2,7 +2,7 @@
 
 ## 📄 Dashboard PDF
 Explore the full Power BI dashboard for the Maven Space Challenge:  
-[View or Download Dashboard PDF](Maven_Space_Dashboard.pdf)
+[View or Download Dashboard PDF](https://github.com/johnemechete/maven-space-challenge/blob/main/Maven%20Space%20Challenge.pdf)
 
 ---
 
@@ -24,5 +24,5 @@ It provides actionable insights into mission performance and overall reliability
 ---
 
 ## 📂 Project Files
-- `Maven_Space_Dashboard.pdf` – Full dashboard  
-- (Optional) `Maven_Space_Dashboard.pbix` – Power BI source file if you want to share
+- `Maven Space Challenge.pdf` – Full dashboard  
+- (Optional) `Maven Space Challenge.pbix` – Power BI source file if you want to share
